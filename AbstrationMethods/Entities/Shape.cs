@@ -4,7 +4,7 @@ namespace AbstrationMethods.Entities
 {
     internal abstract class Shape
     {
-        public Color Color  { get; set; }
+        public Color Color  { get; set; }        
 
         public Shape(Color color)
         {
